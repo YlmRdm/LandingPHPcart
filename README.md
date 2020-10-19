@@ -8,11 +8,11 @@ This Repo made with [`PHP`](https://www.php.net/) | [`MySQL`](https://www.mysql.
 - **Database:** MySQL Version 15.1 Distrib 10.4.14-MariaDB via PhpMyAdmin
 
 ### Demonstrations
-![Products](https://github.com/YlmRdm/LandingPHPCart/tree/main/img/gif/LandingPHPCart.mp4)
+![Products](https://github.com/YlmRdm/LandingPHPCart/tree/main/img/gif/LandingPHPCart.gif)
 
-![Shopping Cart](https://github.com/YlmRdm/LandingPHPCart/tree/main/img/gif/LandingPHPCart2.mp4)
+![Shopping Cart](https://github.com/YlmRdm/LandingPHPCart/tree/main/img/gif/LandingPHPCart2.gif)
 
-![Responsive View](https://github.com/YlmRdm/LandingPHPCart/tree/main/img/gif/LandingPHPCart3.mp4)
+![Responsive View](https://github.com/YlmRdm/LandingPHPCart/tree/main/img/gif/LandingPHPCart3.gif)
 
 
 ### Installation
